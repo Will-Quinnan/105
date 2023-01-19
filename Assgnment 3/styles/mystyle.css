@@ -1,0 +1,16 @@
+.alert-error{
+    background-color: rgb(228, 228, 228);
+    border:1px solid red;
+}
+body{
+    background-color: rgb(202, 224, 224);
+}
+header{
+    text-align: center;
+    color: rgb(13, 107, 71);
+    text-transform: capitalize;
+}
+label{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
